@@ -108,7 +108,7 @@
 -----------------------------------------------
 
 do
-    local ui = game.CoreGui:FindFirstChild("					")
+    local ui = game.CoreGui:FindFirstChild("isEngineTruncationEnabledForIngameSettings")
     if ui then
         ui:Destroy()
      end
